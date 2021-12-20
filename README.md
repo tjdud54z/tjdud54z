@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CodeGream🎨&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JSY CodeGream🎨&fontSize=70)
 
 <div align=center>
 
-## 🌹 t e c h 🌹
+## 🌹 S k i l l 🌹
 
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Joowon0220/TODO-List) [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/Joowon0220/fullPage) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/Joowon0220/fullPage) [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/Joowon0220/svelte)
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Joowon0220/Spring_Weather)  [![MS SQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=mssql&logoColor=white)](https://github.com/Joowon0220/Spring_Weather) [![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/Joowon0220/SpringMVC)
 <br><br><br>
 
-## 💫 m e 
+## 💫 W h o a m i 
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://321coucou.tistory.com/)  [![Code Pen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/joowon0220) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.joowon@gmail.com)
 <br><br><br>
 
